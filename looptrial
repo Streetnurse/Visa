@@ -1,0 +1,6 @@
+#!/bin/bash
+#print numbers from 50-1
+for ((i=50;i=1;i-- ))
+do
+echo i
+done
